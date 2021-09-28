@@ -81,7 +81,7 @@ ul {
   flex-direction: row;
   flex-wrap: wrap;
   background-color: #B36551;
-  height: 10vh;
+  height: 70px;
   padding: 15px;
   padding-top: 20px; 
   position: fixed;
@@ -164,6 +164,7 @@ div#columns figure figcaption {
     display: inline-block;
     text-align: center;
     padding-top: 6px;
+    margin: auto;
 }
 
 .winter {
@@ -178,6 +179,7 @@ div#columns figure figcaption {
     display: inline-block;
     text-align: center;
     padding-top: 6px;
+    margin: auto;
  }
 
  .y2k {
@@ -192,6 +194,7 @@ div#columns figure figcaption {
     display: inline-block;
     text-align: center;
     padding-top: 6px;
+    margin: auto;
 
  }
 
@@ -207,6 +210,7 @@ div#columns figure figcaption {
     display: inline-block;
     text-align: center;
     padding-top: 6px;
+    margin: auto;
  }
 
  .plus {
@@ -221,6 +225,7 @@ div#columns figure figcaption {
     display: inline-block;
     text-align: center;
     padding-top: 6px;
+    margin: auto;
  }
 
 
@@ -586,7 +591,7 @@ hr{
 
   footer {
     background-color: #B36551;
-    height: 6vh;
+    height: 40px;
     position:relative;
     width:100%;
     bottom: 0;
